@@ -1,2 +1,2 @@
-# Coderscave-project
-Phase-1(Realestate app)
+# Coderscave - Internship project
+(Realestate app)
