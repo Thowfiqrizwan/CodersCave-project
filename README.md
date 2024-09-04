@@ -1,3 +1,3 @@
-# Coderscave - Internship project
+# Coderscave Internship project
 (Realestate app)
  
